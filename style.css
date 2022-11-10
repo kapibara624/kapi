@@ -1,0 +1,18 @@
+body{ 
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.mrazh{
+    text-align: center;
+    color: blueviolet;
+}
+.mrazh{
+    width: 500px;
+    height: 500px;
+}
+.vt{
+    width: 350px;
+    margin-left: 600px ;
+    margin-right: 200px;
+}
+
