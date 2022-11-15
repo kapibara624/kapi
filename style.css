@@ -4,20 +4,34 @@ body{
 
 .mrazh{
     text-align: center;
-    color: blueviolet;
+    color: black;
 }
 .mrazh{
-    width: 500px;
-    height: 500px;
+    width: 1800px;
+    height: 100px;
 }
 .vt{
     width: 350px;
-    margin-left: 600px ;
+    margin-left: 605px ;
     margin-right: 200px;
+    margin-top: 15px;
 }
 
 .mir{
     color: blue;
     text-decoration: none;
     border: black;
+}
+p{
+    margin-left: 420px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.bk{
+    font-family: 'Work Sans', sans-serif;
+}
+.gh{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
 }
